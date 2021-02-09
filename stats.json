@@ -1,0 +1,16 @@
+{
+  "servers": 6,
+  "commands": 121,
+  "users": 139,
+  "readyAt": 1607084656391,
+  "channels": 41,
+  "ping": 138,
+  "diskUse": {
+    "memoryPercent": 81,
+    "cpuUssuage": "1.59",
+    "availableMemory": "1499",
+    "usedMemory": "6623",
+    "usedRAM": "22.98"
+  },
+  "botID": "732596391964049510"
+}

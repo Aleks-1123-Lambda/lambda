@@ -1,0 +1,45 @@
+{
+  "name": "lambda",
+  "version": "5.0.0",
+  "description": "Multi purpose bot for discord",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksio1123 & xMuffinex",
+  "license": "ISC",
+  "dependencies": {
+    "@k3rn31p4nic/google-translate-api": "^1.1.1",
+    "ascii-table": "0.0.9",
+    "canvacord": "^5.0.8",
+    "chalk": "^4.1.0",
+    "discord-backup": "^2.2.5",
+    "discord-giveaways": "^4.2.1",
+    "discord-music-player": "^5.0.6",
+    "discord-reaction-menu": "^1.1.7",
+    "discord.js": "github:discordjs/discord.js#pull/4874/head",
+    "discord.js-reaction-menu": "^1.1.1",
+    "edit-json-file": "^1.5.0",
+    "ejs": "^3.1.5",
+    "enmap": "^5.8.2",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "google-tts-api": "0.0.5",
+    "hastebin-gen": "^2.0.5",
+    "helmet": "^4.2.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.32",
+    "ms": "^2.1.2",
+    "node-cmd": "^4.0.0",
+    "opusscript": "0.0.7",
+    "parse-ms": "^2.1.0",
+    "pastebin-js": "^1.0.6",
+    "quick.db": "^7.1.3",
+    "snekfetch": "^4.0.4",
+    "superagent": "^6.1.0",
+    "vhost": "^3.0.2"
+  }
+}

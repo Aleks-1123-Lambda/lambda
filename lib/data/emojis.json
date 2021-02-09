@@ -1,0 +1,27 @@
+{
+	"yes": {
+		"id": "732717837898088520",
+		"display": "<:check_green:732717837898088520>"
+	},
+	"no": {
+		"id": "732717921440235584",
+		"display": "<:check_red:732717921440235584>"
+	},
+	"help": {
+		"dev": "<:badge_developer:705076933645434891>",
+		"admin": "<:icon_ban:724362485116960779>",
+		"conf": "<:icon_settings:705076529561862174>",
+		"emoji": "<a:icon_emoji:724362696069349406>",
+		"image": "<:icon_mention:705076605172842496>",
+		"bot": "<:icon_bot:705077043594920026>",
+		"info": "<:presence:713325999495839756>",
+		"giveaway": "🎉",
+		"serverVerification": "<a:icon_verified:761324914032246834> "
+	},
+	"giveaway": {
+		"main": {
+			"id": "732717837898088520",
+			"display": "<a:tadaa:732717837898088520>"
+		}
+	}
+}
